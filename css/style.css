@@ -1,0 +1,76 @@
+body
+{
+    margin: 0%;
+    padding: 0%;
+}
+
+#menu{
+    color: whitesmoke;
+    font-size: 18px;
+}
+
+#verde
+{
+    color: rgb(96, 211, 96) !important;
+}
+
+.carousel-item
+{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./img/ba1.jpg");
+    filter: blur(20);
+}
+
+#ConfBsAs{
+    margin-left: 23%;
+    margin-bottom: 7%;
+    text-align: end;
+}
+
+.card-group
+{
+    width: 75% !important; 
+    margin: auto;
+}
+
+.card
+{
+    width: 100% !important;
+}
+
+#recuadrogris
+{
+    background-color: rgb(68, 66, 66);
+    color: white; 
+}
+
+.hstack
+{
+text-decoration: none;
+font-size: 14px;
+width: 100%;
+height: 60px;
+color:lightgrey;
+text-align: center;
+justify-content: center; 
+}
+
+#llamada{
+    font-size: smaller;
+}
+
+#btn
+{
+    background-color: #76CC26;
+    border: #76CC26;
+    text-align: center;
+    color: white;
+    font-size: 16px;
+    width: 100%;
+    justify-items: center;
+}
+
+#footer{
+    color: rgb(245, 240, 240);
+    font-size: 14 px;
+    width: 100%;
+}
